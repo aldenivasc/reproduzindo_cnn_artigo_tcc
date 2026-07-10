@@ -1,0 +1,31 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configurações do VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Modelos treinados
+models/
+*.h5
+*.keras
+
+# Arquivos gerados durante a execução
+out/
+
+# Logs
+*.log
+
+dataset/
